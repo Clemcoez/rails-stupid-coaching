@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+ .border_grey {
+  border-left: 5px solid lightgrey;
+ }
+
+ .background_yellow{
+  background-color: lightyellow;
+  width: 500px;
+ }
+
+ .spacing{
+  margin-left: 15px;
+ }
+
+ #title{
+  margin-bottom: 20px;
+ }
+
+ a {
+  text-decoration: none;
+ }
